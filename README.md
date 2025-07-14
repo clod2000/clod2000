@@ -18,6 +18,7 @@ I'm a Master's student in AI for Science and Technologies, with a background in 
 
 
 ## 🚀 Notable Projects
+- **Gen AI for Peptides:** Generative AI approaches for peptide research. My ongoing master thesis project.
 - **Mueller-Brown eploration:** Exploration of the Mueller-Brown potential with a Metropolis acceptance step to respect the detailed balance.
 - **Spin Glass Modeling:** Exploring statistical mechanics and complex systems.
 - **Anomaly Detection:** Unsupervised learning techniques for anomaly detection for an hypertyroidism dataset.
@@ -28,6 +29,5 @@ I'm a Master's student in AI for Science and Technologies, with a background in 
 
 Feel free to explore my pinned projects below. More organized content coming soon!
 > ⚠️ future reorganized contents:
-- **Gen AI for Peptides:** Generative AI approaches for peptide research. My ongoing master thesis project.
 - **Numerical Simulation Laboratory:** Projects and coursework in numerical methods and simulations.
 
