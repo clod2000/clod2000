@@ -18,11 +18,10 @@ I'm a Master's student in AI for Science and Technologies, with a background in 
 
 
 ## 🚀 Notable Projects
-
+- **Mueller-Brown eploration** Exploration of the Mueller-Brown potential with a Metropolis acceptance step to respect the detailed balance.
 - **Spin Glass Modeling:** Exploring statistical mechanics and complex systems.
-- **Gen AI for Peptides:** Generative AI approaches for peptide research.
-- **Anomaly Detection:** Building robust models for identifying outliers in data.
-- **Self-Supervised Learning:** Experimenting with unsupervised and semi-supervised techniques.
+- **Gen AI for Peptides:** Generative AI approaches for peptide research. My ongoing master thesis project.
+- **food SSL:** Experimenting with supervised and semi-supervised techniques.
 - **Numerical Simulation Laboratory:** Projects and coursework in numerical methods and simulations.
 
 ---
