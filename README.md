@@ -11,6 +11,12 @@ I'm a Master's student in AI for Science and Technologies, with a background in 
 
 ---
 
+## 📫 Contact
+
+- [Email](mailto:c.colturi@campus.unimib.it)
+- [LinkedIn](https://www.linkedin.com/in/claudio-colturi/)
+
+
 ## 🚀 Notable Projects
 
 - **Spin Glass Modeling:** Exploring statistical mechanics and complex systems.
