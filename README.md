@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m clod2000 👋
 
-<!--
-**clod2000/clod2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master’s student in Artificial Intelligence for Science and Technologies**  
+🔬 **Bachelor’s degree in Physics**  
+🧠 **Interests:** Machine Learning, Statistical Mechanics, Scientific Computing  
+🐍 **Languages:** Python
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Notable Projects
+
+- **Spin Glass Modeling:** Exploring statistical mechanics and complex systems.
+- **Gen AI for Peptides:** Generative AI approaches for peptide research.
+- **Anomaly Detection:** Building robust models for identifying outliers in data.
+- **Self-Supervised Learning:** Experimenting with unsupervised and semi-supervised techniques.
+- **Numerical Simulation Laboratory:** Projects and coursework in numerical methods and simulations.
+
+---
+
+## About this page
+
+> ⚠️ This page is a work in progress!  
+> I’m still adding more details and projects—stay tuned for updates.
