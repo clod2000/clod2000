@@ -29,6 +29,6 @@ I'm a Master's student in AI for Science and Technologies, with a background in 
 
 Feel free to explore my pinned projects below. More organized content coming soon!
 > ⚠️ future reorganized contents:
-- **Numerical Simulation Laboratory:** Projects and coursework in numerical methods and simulations.
-- **Quantum Sudoku solver:** Grover algorithm implementation on qiskit to solve 4x4 Sudoku.
+- **Numerical Simulation Laboratory:** Projects and coursework in numerical methods and simulations (C++).
+- **Quantum Sudoku solver:** Grover algorithm implementation on qiskit to solve 4x4 Sudoku (Python, Qiskit).
 
